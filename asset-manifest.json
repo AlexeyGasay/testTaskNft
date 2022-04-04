@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/testTaskNft/static/css/main.42f14760.css",
+    "main.js": "/testTaskNft/static/js/main.0fb40dd5.js",
+    "static/media/product-img.png": "/testTaskNft/static/media/product-img.529082e3aeb4d522119c.png",
+    "index.html": "/testTaskNft/index.html",
+    "main.42f14760.css.map": "/testTaskNft/static/css/main.42f14760.css.map",
+    "main.0fb40dd5.js.map": "/testTaskNft/static/js/main.0fb40dd5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42f14760.css",
+    "static/js/main.0fb40dd5.js"
+  ]
+}
